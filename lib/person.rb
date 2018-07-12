@@ -1,3 +1,5 @@
-class Person (adele_goldberg, alan_kay)
-  @adele_goldberg = adele_goldberg
+class Person 
 end
+
+adele_goldberg = Person.new
+alan_kay = Person.new
