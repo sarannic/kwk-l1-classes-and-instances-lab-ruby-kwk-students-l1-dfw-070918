@@ -5,6 +5,7 @@ class Dog
   def snoopy
   end
 
-def lassie 
-end
+  def lassie 
+  end
+  
 end
